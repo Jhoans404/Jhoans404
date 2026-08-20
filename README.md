@@ -4,14 +4,14 @@
 
 <h1 align="center">Hola 👋, Jhoans Aaròn</h1>
 
-<h3 align="center">Desarrollador Backend</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Depurando+el+Caos;%3E+Codificando+sin+L%C3%ADmites;+%3E+Si+Compila%2C+Se+Queda" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Construyendo sistemas backend confiables con arquitectura limpia y soluciones escalables.
+Construyendo proyectos web e impulsando mis habilidades hacia el desarrollo Full Stack.
 </p>
 
 
@@ -19,13 +19,13 @@ Construyendo sistemas backend confiables con arquitectura limpia y soluciones es
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Ilustración de Desarrollador"/>
 
-¡Hola! Soy **Arxenith** — estudiante de Ingeniería de Sistemas e Informática enfocado en el desarrollo backend.
+¡Hola! Soy **Arxenith** — estudiante de Ingeniería de Sistemas e Informática enfocado en el desarrollo **Full Stack**.
 
-Me apasiona construir APIs escalables y listas para producción con Python, además de diseñar arquitecturas limpias y confiables.
+Me apasiona aprender a construir aplicaciones completas, combinando el diseño de interfaces web con la lógica backend y la gestión de bases de datos.
 
-Actualmente, estoy ampliando mi stack aprendiendo **Bootstrap y tecnologías web**, integrándolas con mis bases en **FastAPI, PostgreSQL, SQLAlchemy, Docker y Redis**, mientras fortalezco mis habilidades de resolución de problemas mediante **Estructuras de Datos y Algoritmos**.
+Actualmente, estoy trabajando con **HTML5, CSS3, JavaScript y Bootstrap** en el frontend, mientras aprendo **Python** y exploro conceptos fundamentales de **Java y Spring Boot**. También manejo herramientas como **Git, GitHub, Docker, MySQL y PostgreSQL**, fortaleciendo constantemente mis bases en **Estructuras de Datos y Algoritmos**.
 
-Mi objetivo es simple: escribir código limpio, crear software confiable y crecer como un ingeniero capaz de desarrollar sistemas hechos para durar.
+Mi objetivo es simple: escribir código limpio, seguir aprendiendo tecnologías clave y convertirme en un desarrollador preparado para afrontar retos del mundo real.
 
 <br clear="right"/>
 
@@ -48,7 +48,7 @@ Mi objetivo es simple: escribir código limpio, crear software confiable y crece
 <h2 align="center">💻 Tecnologías</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,bootstrap,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,spring,postgres,mysql,docker,git,github,vscode" />
 </p>
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
