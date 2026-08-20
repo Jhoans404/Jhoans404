@@ -2,34 +2,34 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Jhoans Aaròn</h1>
+<h1 align="center">Hola 👋, Jhoans Aaròn</h1>
 
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Depurando+el+Caos;%3E+Codificando+sin+L%C3%ADmites;+%3E+Si+Compila%2C+Se+Queda" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+Construyendo sistemas backend confiables con arquitectura limpia y soluciones escalables.
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+<h2 align="center">🚀 Sobre Mí</h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Ilustración de Desarrollador"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+¡Hola! Soy **Arxenith** — estudiante de último año de Ingeniería en Computación / Sistemas enfocado en el desarrollo backend.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+Me apasiona construir APIs escalables y listas para producción con Python, además de perfeccionar de manera continua mi comprensión sobre los sistemas backend del mundo real.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Actualmente, estoy aprendiendo **FastAPI, PostgreSQL, SQLAlchemy, Docker y Redis**, mientras fortalezco mis habilidades de resolución de problemas mediante **Estructuras de Datos y Algoritmos**.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+Mi objetivo es simple: escribir código limpio, crear software confiable y crecer como un ingeniero de software que desarrolla sistemas hechos para durar.
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Contacto</h2>
 
 <p align="center">
   <a href="https://github.com/midnightshady">
@@ -45,7 +45,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tecnologías</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
@@ -67,7 +67,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
 
@@ -75,14 +75,13 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 </div>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📈 Gráfico de Actividad</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de Actividad"/>
 </p>
 
-### 
-<h2 align="center">⌘ Commit Activity</h2>
+<h2 align="center">⌘ Actividad de Commits</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -95,11 +94,8 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
 </p>
 
-<h2 align="center">⌘ Philosophy</h2>
+<h2 align="center">⌘ Filosofía</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase de Desarrollador"/>
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
